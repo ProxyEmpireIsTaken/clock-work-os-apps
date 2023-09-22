@@ -1,0 +1,10 @@
+{
+  "name": "Slope 2",
+  "desc": "Slope 2, play games, and evade content filters",
+  "url": "https://slope2.github.io/",  
+  "encodedUrl": "no",
+  "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAilBMVEVHcEweUh4IFAgUWBYEBAQFBwYFEQYNKQsahhodVB4VHAoLEgoKDQgSOhMrdyokjx8WVxgafxkEEQUb6h4b4BsXsBcirSMAAAABAAISzhMIMgkI/gkRdRMOrA8DBQMFEgYHJQgVaRYJPgkJWQoPSg8O6w8TvRQWsxYR2xIMgg4MnA0FGwUUpRUQkxGfPsKuAAAAF3RSTlMApTv6kG3tHf4NVLTU3m1A1sjBd6SdsY6sWHQAAAIDSURBVDiNbVMJkqMwDCQhJOSezB6SL2xjc8P/v7cyhkyyM6YoVGqpJatFkrycwynb7XbZ9pj8dI7ZBfTAudGw392/47/y0so8l/Prp9//sRw/xGg5YDwmHUW6fSt+bUQJCM9TitqfXvNTJfgLDlwob784Nh6UKIn7hUEB/zgs+K0E6IV7ZXCip1Y2S8CVqkvRIZe9qlnTdyVKIYnPxNveNNlcMFYx1XfdpMhgc0sYKS6huBRVx9cCRlZiQuLVoYtDAViollUhLjwBIA5myMgo4ERAXWsn3LNFdNRC3xqEMwXsEFRNLVf9CiOqakCcWIEXCjijY+QE1a5zwKJSs2eCPUnyCbWPVy9jBNKYXDAHVoSAcznGPNYvFNizaEkZAjadi3myLaJeQ+WjYcZrmFOuF+bW4vy1LSzK5g8KuNdraVkPvOQam271qD9hUI2DmOkq1qi6bSuzzIvX8048WCxpmczDKrAuOrBk+Sz4ybMuXKotIaf56Bx8FaSyzC16X8zYeCgbattqsAS2DriquV42ZqvBj00fxjFYwhFGNdZ2VXuWg5ajYzIF0AbA56qhJcPr1+qfKaJgmgZiSGQNHU0E94cnnhzP5GgsJds0LWBozDseRQfrpQvr5HP6hT7fcer0oh1rJmltzia+z5Lv5/43RRj4AMPj9vP/nRy3pyzLtm/k/wCR90w23TCw2gAAAABJRU5ErkJggg==",
+  "version": "1.0.0",
+  "author": "ProxyEmpireIsTaken",
+  "permissions": []
+}
