@@ -1,7 +1,7 @@
 {
   "name": "WebLFG",
   "desc": "WebLFG,play games,have fun, and evade content filters",
-  "url": "https://www.weblfg.org/",  
+  "url": "ubg.vercel.app",  
   "encodedUrl": "no",
   "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAbFBMVEVHcEzgfX3nfn7nfn7nfn7nfn7nfn7nfn7nfn7nfn7nfn7nfn7nfn5lZWVfYGBOTk7sgIDwgYFVVlYVHh6XYWHIdXUzLi53aGSDdHGsb2/zhIR8SkpOQED4+PiFkmCfn5+8vLxNk7pViKXoymh4cjMgAAAADHRSTlMA/AuEbOUnxE+um5b0uV3JAAABiUlEQVQ4jY1T2WKjMAyEFjAklnxhbAgkbff//3ElQRpa0u7OE/aMpdFBUTzQtNWp605V2xTP0Ha13lB37ZFW+gvUN0mlD6j2fHfkte7+we8Ur895rV83fz/xWq9Oxb91zrppvXbW0lFq+QxgR+P9MJciSMabYZ7uISSAS4g4h0iPXaRPHIZpC9FI/0aEG4CZe0KCjw/AcLF0XzdrhhIgL5kUBA/4/o5gQrSSg2u00b8ty/KGngR4/ZOTzj70k1TKTXIj5ttyy+DJHqZ8TX2iHJM0iz26jAhLAkDOAHi9IkCYnbhkgSUODL9HjyxhDEMpApnDesUCQ0HW0ywuOzEZUXhCCNmTDT6aMFo22d4F1JvYX6KN4yWJPvSWy6RG2RHlRe/cZGkqU8kCaRU1il2WgHQePocoL2aOoNZts7FPlMA+5jxmEy5627tahk1D3i2CpalRn+r/W5ji/BN/3nbyRT3n1Uvxq+LBk+JJlvOOZ6f1V7o+/p2VKu9sqaoDzXma6qRqpU7V/vf/C8pALDRVe+zpAAAAAElFTkSuQmCC",
   "version": "1.0.0",
