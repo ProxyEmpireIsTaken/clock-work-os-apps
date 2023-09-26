@@ -1,0 +1,10 @@
+{
+  "name": "Nebula",
+  "desc": "Nebula, browse privately and evade content filters",
+  "url": "https://tobi.gifts",  
+  "encodedUrl": "no",
+  "icon": "https://github.com/NebulaServices/Nebula/blob/main/public/images/logo.png?raw=true",
+  "version": "1.0.0",
+  "author": "ProxyEmpireIsTaken",
+  "permissions": []
+}
