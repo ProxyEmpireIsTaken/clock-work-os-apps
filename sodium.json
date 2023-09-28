@@ -1,0 +1,10 @@
+{
+  "name": "Sodium",
+  "desc": "Sodium, play games, search the web, have fun, and evade content filters",
+  "url": "https://hey-guys-welcome-to-a-new-tutorial.vercel.app/",  
+  "encodedUrl": "no",
+  "icon": "https://github.com/z1g-project/Sodium/blob/master/sodium-static/public/sodium.png",
+  "version": "1.0.0",
+  "author": "ProxyEmpireIsTaken",
+  "permissions": []
+}
