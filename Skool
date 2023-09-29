@@ -1,0 +1,10 @@
+{
+  "name": "Skool Unblocker",
+  "desc": "Skool, play games, search the web, have fun, and evade content filters",
+  "url": "https://skool.gay",  
+  "encodedUrl": "no",
+  "icon": "https://github.com/z1g-project/Sodium/blob/master/sodium-static/public/sodium.png",
+  "version": "1.0.0",
+  "author": "ProxyEmpireIsTaken",
+  "permissions": []
+}
