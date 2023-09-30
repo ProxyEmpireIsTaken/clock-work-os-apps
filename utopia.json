@@ -1,0 +1,10 @@
+{
+  "name": "Utopia",
+  "desc": "Utopia, play games, search the web, have fun, and evade content filters",
+  "url": "https://howtomath.org/",  
+  "encodedUrl": "no",
+  "icon":"https://howtomath.org/img/logo.png",
+  "version": "1.0.0",
+  "author": "ProxyEmpireIsTaken",
+  "permissions": []
+}
