@@ -3,7 +3,7 @@
   "desc": "Zazwire is a site where you can play games,have fun, and evade content filters",
   "url": "https://physicsbutfun.com",  
   "encodedUrl": "no",
-  "icon": "https://camo.githubusercontent.com/a78fda8d3924c2ad7e0468e3309ee1c196089ea8260d5ab53ee6da184cf4aed6/68747470733a2f2f736f6369616c6966792e6769742e63692f77686f732d6576616e2f6b617a776972652f696d6167653f6465736372697074696f6e3d3126666f726b733d31266973737565733d31266c616e67756167653d31266c6f676f3d68747470732533412532462532466b617a776972652e636f6d2532466c6f676f2e706e67266e616d653d31266f776e65723d31267061747465726e3d536f6c69642670756c6c733d31267374617267617a6572733d31267468656d653d4461726b",
+  "icon": "https://github.com/whos-evan/kazwire/blob/master/static/assets/logos/logo.png",
   "version": "1.0.0",
   "author": "ProxyEmpireIsTaken",
   "permissions": []
